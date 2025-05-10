@@ -1,2 +1,4 @@
 -	This repository is for the upcoming class-collaboration assignment. 
--	Make sure to consistently add, subtract, and update this repository.  
+-	Please make sure to consistently add, subtract, and update this repository.  
+- The project has been linked in the "Projects" tab. Check off your To-do list periodically.
+- Remember *VERSION CONTROL*! (Java)  
